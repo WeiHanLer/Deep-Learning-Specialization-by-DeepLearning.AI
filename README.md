@@ -1,4 +1,4 @@
-# Deep Learning Specialization by Andrew Ng,DeepLearning.AI
+# Deep Learning Specialization by Andrew Ng, DeepLearning.AI
 
 A repository for keeping the assignments completed in the Deep Learning Specialization.
 
