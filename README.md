@@ -1,6 +1,7 @@
 # Deep Learning Specialization by Andrew Ng, DeepLearning.AI
 
-A repository for keeping the programming assignments completed in the [Deep Learning Specialization][links]. The program is offered on Coursera as a 5-course specialization taught by the amazing Andrew Ng.The Jupyter Notebooks are grouped by the courses they appeared in.
+A repository for keeping the programming assignments completed in the [Deep Learning Specialization]. The program is offered on Coursera as a 5-course specialization taught by the amazing Andrew Ng.The Jupyter Notebooks are grouped by the courses they appeared in.
+
 [links]:https://www.coursera.org/specializations/deep-learning
 
 
