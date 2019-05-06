@@ -5,9 +5,8 @@ A repository for keeping the programming assignments completed in the [Deep Lear
 [links]:https://www.coursera.org/specializations/deep-learning
 
 
-
-
-
+<br>
+<br>
 ### Review
 Andrew Ng has an incredible ability of articulating heavily technical lectures in a simple and understandable manner, which I believe could not be achieved without deep expertise in neural networks. I feel extremely privileged to learn from Coursera's co-founder himself, if only he was my lecturer in university!  
 
